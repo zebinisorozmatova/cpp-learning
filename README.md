@@ -1,4 +1,4 @@
-This repository contains beginner-friendly C++ projects and exercises.## Projects
+## Projects
 
 - hello.cpp – Prints "Hello World"
 - odd_even.cpp – Checks if a number is odd or even
